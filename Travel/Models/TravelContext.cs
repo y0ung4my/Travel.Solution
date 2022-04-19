@@ -9,6 +9,6 @@ namespace Travel.Models
         {
         }
 
-        public DbSet<Review> Review { get; set; }
+        public DbSet<Review> Reviews { get; set; }
     }
 }

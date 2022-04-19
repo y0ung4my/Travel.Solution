@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Travel
+namespace Travel.Models
 {
   public class Review
   {
